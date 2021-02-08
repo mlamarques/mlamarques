@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning JavaScript
 
-Avoid the Deadly Diamond of Death 😬
+* Avoid the Deadly Diamond of Death 😬
 
 
 
