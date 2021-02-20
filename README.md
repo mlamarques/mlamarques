@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning React
 
 * Avoid the Pyramid of Doom 😬
 
