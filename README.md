@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-🌱 I’m currently learning React (TDD)
+🔭 I’m currently developing the final project for the front-end part of my studying course
 
 * Avoid the Pyramid of Doom 😬
 
