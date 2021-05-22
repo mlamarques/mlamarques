@@ -1,6 +1,8 @@
 # Hi there 👋 
 
-🔭 I’m currently developing the final project for the front-end part of my studying course
+🔭 I’m currently in the AfyaLabs training
+
+
 
 * Avoid the Pyramid of Doom 😬
 
