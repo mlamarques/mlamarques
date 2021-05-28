@@ -8,7 +8,8 @@
 
 
 
-
+[card game](https://memorygame-6c814.web.app/)
+[Where is Waldo?](https://whereswaldo-6ffb4.web.app/)
 
 <!--
 **mlamarques/mlamarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
