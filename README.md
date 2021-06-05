@@ -7,7 +7,7 @@
 * Avoid the Pyramid of Doom 😬
 
 
-** Some of my projects:
+## Some of my projects:
 
 [card game](https://memorygame-6c814.web.app/)
 
