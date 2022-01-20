@@ -10,12 +10,13 @@
 ## Some of my projects:
 
 ### Tenzies
-[![image](https://user-images.githubusercontent.com/43910483/150337997-23386e89-bae4-4ce8-977b-64864d90077d.png)](https://tenzies.herokuapp.com/)
+
+[<img src="https://user-images.githubusercontent.com/43910483/150337997-23386e89-bae4-4ce8-977b-64864d90077d.png" alt="sc" width="400"/>](https://tenzies.herokuapp.com/)
 
 <div style="display: inline_block">
   <h4>developed with: </h4>
-  <img align="center" alt="JavaScript logo" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ract logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="JavaScript logo" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ract logo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
 ---
