@@ -10,7 +10,7 @@
 ## Some of my projects:
 
 ### Tenzies
-[[image](https://user-images.githubusercontent.com/43910483/150337997-23386e89-bae4-4ce8-977b-64864d90077d.png)]
+[![image](https://user-images.githubusercontent.com/43910483/150337997-23386e89-bae4-4ce8-977b-64864d90077d.png)](https://tenzies.herokuapp.com/)
 <div style="display: inline_block">
   <img align="center" alt="Ract logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div> 
