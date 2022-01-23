@@ -21,6 +21,20 @@
 
 ---
 
+### Quizzical
+
+[<img src="https://user-images.githubusercontent.com/43910483/150696732-01a7c928-175c-4fa0-941d-0b6a93855ffb.png" alt="sc" width="400"/>](https://quizzical-kappa.vercel.app/)
+
+<div style="display: inline_block">
+  <h4>developed with: </h4>
+  <img align="center" alt="JavaScript logo" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ract logo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div>
+
+---
+
+### Others
+
 [card game](https://memorygame-6c814.web.app/)
 
 [Where is Waldo?](https://whereswaldo-6ffb4.web.app/)
