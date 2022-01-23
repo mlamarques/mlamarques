@@ -11,7 +11,7 @@
 
 ### Tenzies
 
-[<img src="https://user-images.githubusercontent.com/43910483/150337997-23386e89-bae4-4ce8-977b-64864d90077d.png" alt="sc" width="400" target="_blank" rel="noopener noreferrer"/>](https://tenzies-cyan.vercel.app/)
+[<a href="https://tenzies-cyan.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/43910483/150337997-23386e89-bae4-4ce8-977b-64864d90077d.png" alt="sc" width="400"/></a>](https://tenzies-cyan.vercel.app/)
 
 <div style="display: inline_block">
   <h4>developed with: </h4>
