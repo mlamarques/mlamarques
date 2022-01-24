@@ -4,9 +4,6 @@
 
 
 
-* Avoid the Pyramid of Doom 😬
-
-
 ## Some of my projects:
 
 ### Tenzies
