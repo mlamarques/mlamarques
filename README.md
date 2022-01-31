@@ -12,7 +12,6 @@
 
 <div style="display: inline_block">
   <h4>developed with: </h4>
-  <img align="center" alt="JavaScript logo" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ract logo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
@@ -24,7 +23,6 @@
 
 <div style="display: inline_block">
   <h4>developed with: </h4>
-  <img align="center" alt="JavaScript logo" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ract logo" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
