@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-🔭 I’m currently looking for entry-level positions
+🔭 I’m currently working on a personal MERN Stack project
 
 
 
