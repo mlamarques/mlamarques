@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-🔭 I’m currently working on a personal MERN Stack project
+🔭 Never stop learning
 <!-- 
 ```mermaid
 journey
