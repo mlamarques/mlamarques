@@ -44,7 +44,7 @@ Repositories:
 	<img align="center" alt="Express logo" title="Express" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 	<img align="center" alt="JWT logo" title="JSON Web Tokens" height="30" width="30" src="https://jwt.io/img/pic_logo.svg">
 	<img align="center" alt="MongoDb logo" title="MongoDB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-	<img align="center" alt="Heroko logo" title="Heroko" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
+	<img align="center" alt="Heroku logo" title="Heroku" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
 </div>
 
 <!-- https://devicon.dev/ -->
