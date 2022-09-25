@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-🌱 Never stop learning
+🌱 Lerning Dart 🎯
 <!-- 
 ```mermaid
 journey
